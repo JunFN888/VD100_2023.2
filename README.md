@@ -22,7 +22,6 @@ The VD100 development board is based on the Xilinx Versal AI Edge series chip xc
 # VD100 document tutorial link
 https://vd100-20232-v101.readthedocs.io/zh-cn/en/VD100_S1_RSTdocument_EN/00_aboutALINX_EN.html
 
- Note: You can switch between Chinese and English languages at the footer at the end of the document
 
 ## Operating environment
 * Vitis 2023.2.1 [download page](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vitis.html)
